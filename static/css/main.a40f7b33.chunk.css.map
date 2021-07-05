@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,YACE,wBAAoC","file":"main.a40f7b33.chunk.css","sourcesContent":["// styles go here\n.goodActive {\n  background-color: rgb(156, 228, 168);\n}"]}
